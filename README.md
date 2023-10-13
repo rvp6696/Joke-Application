@@ -12,6 +12,6 @@
   <li>Custom typography with Google Fonts for an attractive look.</li>
 </ol>
 
-<p>See the Joke Generator in action! </p>  <span><a href="https://rvp6696.github.io/Joke-Application/" target="_blank" title="Joke-Generator"> Click Here ! </a></span>
+<p>See the Joke Generator in action!  <span><a href="https://rvp6696.github.io/Joke-Application/" target="_blank" title="Joke-Generator"> Click Here ! </a>
 
 <p> Enjoy the jokes and share some laughter with your friends and family! 😄 </p>
